@@ -1,1 +1,1 @@
-Repo for developing a rigid arm model in Simulink.
+Repo for developing rigid and soft manipulator models in Simulink.
